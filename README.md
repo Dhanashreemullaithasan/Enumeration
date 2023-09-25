@@ -60,8 +60,9 @@ Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TX
 Perform common SRV Record Enumeration
 Top level domain expansion
 ## OUTPUT:
+![e3eh](https://github.com/Dhanashreemullaithasan/Enumeration/assets/94165415/7355fc54-f843-456c-b75a-dd816e8cb530)
 
-
+![e3 1eh](https://github.com/Dhanashreemullaithasan/Enumeration/assets/94165415/a7c5233b-fef5-4290-875f-8b4a4f3e0ad6)
 
 
 
