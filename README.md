@@ -99,7 +99,8 @@ and issue appropriate commands
   
  ##Output
   
-  
+  ![e3 2eh](https://github.com/Dhanashreemullaithasan/Enumeration/assets/94165415/d808c30a-3b95-4052-be0a-7cb7af7d4abf)
+
 
 ## nmap –script smtp-enum-users.nse <hostname>
 
