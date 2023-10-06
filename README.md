@@ -1,33 +1,19 @@
-![image](https://github.com/Dhanashreemullaithasan/Enumeration/assets/94165415/d2d59f3c-4908-415b-a257-a2d086e4e200)# Enumeration
-Enumeration Techniques
-
 # Explore Google hacking and enumeration 
-
-# AIM:
-
+## AIM:
 To use Google for gathering information and perform enumeration of targets
-
 ## STEPS:
-
 ### Step 1:
-
 Install kali linux either in partition or virtual box or in live mode
-
 ### Step 2:
-
 Investigate on the various Google hacking keywords and enumeration tools as follows:
-
-
 ### Step 3:
 Open terminal and try execute some kali linux commands
-
 ## Pen Test Tools Categories:  
-
 Following Categories of pen test tools are identified:
 Information Gathering.
-
-## Google Hacking:
-Google hacking, also known as Google dorking, is a technique that involves using advanced operators to perform targeted searches on Google. These operators can be used to search for specific types of information, such as sensitive data that may have been inadvertently exposed on the web. Here are some advanced operators that can be used for Google hacking:
+## Google Hacking:Google hacking, also known as Google dorking, is a technique that involves using advanced operators to perform targeted searches on Google. These operators can be used to search for specific types of information, such as sensitive data that may have been inadvertently exposed on the web. Here are some advanced operators that can be used for Google hacking:
+![image](https://github.com/Dhanashreemullaithasan/Enumeration/assets/94165415/d2d59f3c-4908-415b-a257-a2d086e4e200)# Enumeration
+Enumeration Techniques
 ### site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
 Following searches for all the sites that is in the domain yahoo.com
 ![image](https://github.com/Dhanashreemullaithasan/Enumeration/assets/94165415/1064c96a-0216-4cb2-a9ca-b9baa681f558)
